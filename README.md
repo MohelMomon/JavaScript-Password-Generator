@@ -9,3 +9,8 @@ This Javascript Project was made to create passwords 8 to 128 characters long in
 ![](./Assets/Screenshot%202022-12-27%20050603.png)
 ![](./Assets/Screenshot%202022-12-27%20050638.png)
 
+## Links
+
+Repository: https://github.com/MohelMomon/JavaScript-Password-Generator
+
+Github Pages: https://mohelmomon.github.io/JavaScript-Password-Generator/
